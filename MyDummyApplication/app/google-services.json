@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "484629459422",
+    "firebase_url": "https://testingfirebase-4922c.firebaseio.com",
+    "project_id": "testingfirebase-4922c",
+    "storage_bucket": "testingfirebase-4922c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484629459422:android:1f5a0cd350ca3c87",
+        "android_client_info": {
+          "package_name": "com.example.testingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484629459422-e07dqp20425ipe4b5c5o1cnrs325fdbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testingfirebase",
+            "certificate_hash": "935e5c74379fccc2d41b0caca58d99274f55805b"
+          }
+        },
+        {
+          "client_id": "484629459422-v99e3nhoeippuetcud7u1muf2hmbpm29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL5y9l_BSBYAZk070VPT70oiMAAPeEEh0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484629459422-v99e3nhoeippuetcud7u1muf2hmbpm29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484629459422:android:c7eb0c8b3908c11b",
+        "android_client_info": {
+          "package_name": "com.example.victo.mydummyapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484629459422-7tuoo51pnma0m53c081au9793786m46i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.victo.mydummyapplication",
+            "certificate_hash": "dea79373320f07f3522af5788c55079701671eb5"
+          }
+        },
+        {
+          "client_id": "484629459422-v99e3nhoeippuetcud7u1muf2hmbpm29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL5y9l_BSBYAZk070VPT70oiMAAPeEEh0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484629459422-v99e3nhoeippuetcud7u1muf2hmbpm29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
